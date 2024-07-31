@@ -1,3 +1,9 @@
+![Screenshot_2024-07-30-21-00-34-67](https://github.com/user-attachments/assets/51fcb884-e2f3-4ac7-bb7a-0d69a577cc0d)
+![Screenshot_2024-07-30-21-01-05-67](https://github.com/user-attachments/assets/f0afcb05-8db1-4871-b90c-71e73d217ab9)
+![Screenshot_2024-07-30-21-02-47-34](https://github.com/user-attachments/assets/6cde5e21-a17c-4f1f-a5bb-6cb75ae9d8ab)
+![Screenshot_2024-07-30-21-00-34-67](https://github.com/user-attachments/assets/fca89631-a61e-408a-9888-4aa42e4fceef)
+![Screenshot_2024-07-30-21-01-05-67](https://github.com/user-attachments/assets/2c0051cd-cad3-41d0-b282-399f461db9dd)
+![Screenshot_2024-07-30-21-02-47-34](https://github.com/user-attachments/assets/02462a84-fab1-474c-9f97-39ffe8c9f4e4)
 <p align="center">
   <img src="https://github.com/CorvusCodex/LotteryAi/blob/main/LotteryAi.png?raw=true">
 </p>
